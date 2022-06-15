@@ -1,0 +1,73 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Topics/Integer types and operations/First digit/out/
+/Topics/Integer types and operations/First digit/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/Reading integer numbers/out/
+/Topics/Integer types and operations/Reading integer numbers/out/production/classes/
+/Topics/Integer types and operations/The sum of digits/out/
+/Topics/Integer types and operations/The sum of digits/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Overview of the basic program/Cats are robots/out/
+/Topics/Overview of the basic program/Cats are robots/out/production/classes/
+/Topics/Overview of the basic program/Find a keyword/out/
+/Topics/Overview of the basic program/Find a keyword/out/production/classes/
+/Topics/Overview of the basic program/Find a word that is not a keyword/out/
+/Topics/Overview of the basic program/Find a word that is not a keyword/out/production/classes/
+/Topics/Overview of the basic program/Statements/out/
+/Topics/Overview of the basic program/Statements/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 backwards/out/
+/Topics/Printing data/Digits from 0 to 9 backwards/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/Stars/out/
+/Topics/Printing data/Stars/out/production/classes/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
+/Topics/Printing data/Theory/out/
+/Topics/Printing data/Theory/out/production/classes/
+/Topics/Printing data/We need to learn Java/out/
+/Topics/Printing data/We need to learn Java/out/production/classes/
+/Topics/Printing data/What does the code print/out/
+/Topics/Printing data/What does the code print/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing each word in a new line/out/
+/Topics/Scanning the input/Printing each word in a new line/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/Scanning the input/Reading a number/out/
+/Topics/Scanning the input/Reading a number/out/production/classes/
+/Topics/Scanning the input/Reading a single word/out/
+/Topics/Scanning the input/Reading a single word/out/production/classes/
+/Topics/Scanning the input/Theory/out/
+/Topics/Scanning the input/Theory/out/production/classes/
+/Topics/Scanning the input/Understanding System.in/out/
+/Topics/Scanning the input/Understanding System.in/out/production/classes/
+/Topics/Types and variables/Animal/out/
+/Topics/Types and variables/Animal/out/production/classes/
+/Topics/Types and variables/Fill the declaration/out/
+/Topics/Types and variables/Fill the declaration/out/production/classes/
+/Topics/Types and variables/Statements/out/
+/Topics/Types and variables/Statements/out/production/classes/
+/Topics/Types and variables/Statements (1)/out/
+/Topics/Types and variables/Statements (1)/out/production/classes/
+/Topics/Types and variables/The assignment operator/out/
+/Topics/Types and variables/The assignment operator/out/production/classes/
+/Topics/Types and variables/Theory/out/
+/Topics/Types and variables/Theory/out/production/classes/
